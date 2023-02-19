@@ -1,0 +1,25 @@
+#pantalla-encuesta{
+    max-width: 800px;
+    margin: 50px auto;
+}
+.pantalla-encuesta img{
+    max-width: 400px;
+    width: 100%;
+}
+
+#pantalla-resultados{
+    max-width: 800px;
+    margin: 50px auto;
+}
+.pantalla-resultados img{
+    max-width: 400px;
+    width: 100%;
+}
+
+body{
+    background: url(/img/fondo2.jpg);   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
